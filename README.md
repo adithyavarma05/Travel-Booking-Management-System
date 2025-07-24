@@ -13,4 +13,4 @@ To apply SQL constraints such as primary keys, foreign keys, and data types for 
 To populate the database with realistic sample data for testing and analysis.
 
 
-![Uploading ER_Diagram  .png…]()
+![ER Diagram](https://github.com/adithyavarma05/Travel-Booking-Management-System/blob/main/ER_Diagram%20%20.png)
