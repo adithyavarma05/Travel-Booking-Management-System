@@ -12,4 +12,5 @@ To implement and manage multiple interconnected tables using MySQL.
 To apply SQL constraints such as primary keys, foreign keys, and data types for data integrity.
 To populate the database with realistic sample data for testing and analysis.
 
-![ER Diagram](ER_Diagram.png)
+
+![Uploading ER_Diagram  .png…]()
